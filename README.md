@@ -1,5 +1,5 @@
 # 🌎 Hello World!
-👨‍💻 Programming enthusiast<br>👁️‍🗨️ 18 years old Brazilian
+👨‍💻 Programming enthusiast<br>👁️‍🗨️ 19 years old Brazilian
 
 # 📊 GitHub Status
 ![](https://github-readme-stats.vercel.app/api?username=pedro-cursino&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)
